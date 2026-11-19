@@ -1,0 +1,6 @@
+# Claude Code 대화 기록
+*.jsonl
+
+# 비밀값
+.env
+*.env
